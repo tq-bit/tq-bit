@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tobi. I'm creating educational articles and resources for (web) - developers. 
+Hi, I'm Tobi. I'm creating educational articles and resources for (web) - developers. I'm working at [Cpro Industry](https://cpro-ips.com/), creating modern (I)IoT platforms for companies big and small.
 
 
 ## 🌐 Socials:
